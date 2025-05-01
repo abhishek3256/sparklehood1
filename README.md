@@ -80,6 +80,3 @@ npm run build
 
 The build output will be in the `dist` directory.
 
-## License
-
-[Your chosen license] 
