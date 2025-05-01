@@ -8,7 +8,7 @@ vercel: https://sparklehood1.vercel.app/
 ## Technology Stack
 
 - **Frontend Framework**: React 18
-- **Language**: TypeScript
+- **Language**: JavaScript
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
