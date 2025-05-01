@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 
-git clone [your-repository-url]
+git clone [https://github.com/abhishek3256/sparklehood1]
 cd sparklehood
 
 
