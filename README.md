@@ -2,6 +2,9 @@
 
 A modern web application built with React, TypeScript, and Vite, featuring a beautiful UI powered by Tailwind CSS.
 
+Github: https://github.com/abhishek3256/sparklehood1
+vercel: https://sparklehood1.vercel.app/
+
 ## Technology Stack
 
 - **Frontend Framework**: React 18
